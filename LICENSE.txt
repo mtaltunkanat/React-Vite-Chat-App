@@ -1,0 +1,9 @@
+MIT License
+
+Copyright (c) [2024] [Muhammed Taha Altunkanat]
+
+İzin verilir, kısıtlama olmaksızın, bu yazılım ve ilişkili belgelerin kopyalarını elde etmek, kullanmak, değiştirmek, birleştirmek, dağıtmak, alt lisanslamak ve/veya satmak için ücretsiz olarak verilir, verilen koşul altında:
+
+Yazılımın veya yazılımın diğer dağıtımlarının bu lisansın yukarıdaki telif hakkı bildirimi ve bu izni içeren bir kopyasını içermesi gerekir.
+
+YAZILIM, "OLDUĞU GİBİ" SAĞLANMAKTADIR, HİÇBİR GARANTİ VERİLMEMEKTEDİR, AÇIK VEYA ZIMNİ, SATILABİLİRLİK, BELİRLİ BİR AMACA UYGUNLUK VEYA HİÇBİR YASA DIŞI EYLEMLERİN TUTULMASI KONUSUNDA HİÇBİR GARANTİ VEYA BEYANATTA BULUNULMAZ.
