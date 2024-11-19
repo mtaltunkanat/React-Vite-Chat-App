@@ -6,14 +6,14 @@ import { useEffect, useRef, useState } from "react"
 import { useAuthState } from "react-firebase-hooks/auth"
 import { useCollection } from "react-firebase-hooks/firestore"
 
+// Firebase yapılandırma bilgileri
 const firebaseConfig = {
-  apiKey: "AIzaSyAMDAhiPL7xC8F7KpLgxH8RXVT0Nu_b6VY",
-  authDomain: "chat-app-cd456.firebaseapp.com",
-  projectId: "chat-app-cd456",
-  storageBucket: "chat-app-cd456.firebasestorage.app",
-  messagingSenderId: "60135532292",
-  appId: "1:60135532292:web:fc1be4e64a90acb9ead251",
-  measurementId: "G-TYDZDQBFKV"
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_AUTH_DOMAIN",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_STORAGE_BUCKET",
+  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  appId: "YOUR_APP_ID",
 };
 
 const app = initializeApp(firebaseConfig)
