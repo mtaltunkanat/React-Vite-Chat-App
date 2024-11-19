@@ -1,6 +1,4 @@
-# DRF AirCraft Manager Project
-
-React ile Sohbet  Uygulaması.
+# React&Vite ile Sohbet  Uygulaması.
 
 1.Not: Projeyi ben canlıya aldım ama siz react ile terminalden çalıştıracağınız kod şudur: 
 
