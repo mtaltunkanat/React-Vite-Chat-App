@@ -1,6 +1,6 @@
 # React&Vite ile Sohbet  Uygulaması.
 
-Karşılıklı olarak sohbet edilebilir
+Karşılıklı olarak sohbet edilebilir (Full Stack).
 Yazdıkça scroll aşağıya kayar
 Giriş yapma ekranından sadece Google ile giriş yapılabilir ve yapılan girişlerden hesabın fotosu kullanılır
 
