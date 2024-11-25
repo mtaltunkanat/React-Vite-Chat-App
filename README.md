@@ -4,6 +4,11 @@ Karşılıklı olarak sohbet edilebilir (Full Stack).
 Yazdıkça scroll aşağıya kayar
 Giriş yapma ekranından sadece Google ile giriş yapılabilir ve yapılan girişlerden hesabın fotosu kullanılır
 
+ Uygulamanın canlıya alınmış hali:
+ ```http
+  https://chat-app-cd456.web.app/
+```
+
 1.Not: Projeyi ben canlıya aldım ama siz react ile terminalden çalıştıracağınız kod şudur: 
 
 ```bash
